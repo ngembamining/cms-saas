@@ -1,0 +1,608 @@
+[28-Jun-2026 21:58:26 UTC] PHP Warning:  require(/home/kingnioq/pcu.kingosr.tech/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/kingnioq/pcu.kingosr.tech/public/index.php on line 24
+[28-Jun-2026 21:58:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kingnioq/pcu.kingosr.tech/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kingnioq/pcu.kingosr.tech/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/kingnioq/pcu.kingosr.tech/public/index.php on line 24
+[28-Jun-2026 21:58:57 UTC] PHP Warning:  require(/home/kingnioq/pcu.kingosr.tech/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/kingnioq/pcu.kingosr.tech/public/index.php on line 24
+[28-Jun-2026 21:58:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kingnioq/pcu.kingosr.tech/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kingnioq/pcu.kingosr.tech/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/kingnioq/pcu.kingosr.tech/public/index.php on line 24
+[28-Jun-2026 21:59:44 UTC] PHP Warning:  require(/home/kingnioq/pcu.kingosr.tech/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/kingnioq/pcu.kingosr.tech/public/index.php on line 24
+[28-Jun-2026 21:59:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kingnioq/pcu.kingosr.tech/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kingnioq/pcu.kingosr.tech/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/kingnioq/pcu.kingosr.tech/public/index.php on line 24
+[28-Jun-2026 22:02:41 UTC] PHP Warning:  require(/home/kingnioq/pcu.kingosr.tech/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/kingnioq/pcu.kingosr.tech/public/index.php on line 24
+[28-Jun-2026 22:02:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kingnioq/pcu.kingosr.tech/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kingnioq/pcu.kingosr.tech/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/kingnioq/pcu.kingosr.tech/public/index.php on line 24
+[28-Jun-2026 22:06:13 UTC] PHP Warning:  require(/home/kingnioq/pcu.kingosr.tech/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/kingnioq/pcu.kingosr.tech/public/index.php on line 24
+[28-Jun-2026 22:06:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kingnioq/pcu.kingosr.tech/public/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kingnioq/pcu.kingosr.tech/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/kingnioq/pcu.kingosr.tech/public/index.php on line 24
+[28-Jun-2026 22:08:05 UTC] PHP Warning:  require(/home/kingnioq/pcu.kingosr.tech/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/kingnioq/pcu.kingosr.tech/public/index.php on line 24
+[28-Jun-2026 22:08:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kingnioq/pcu.kingosr.tech/public/../vendor/autoload.php' (include_path='.:/opt/alt/php85/usr/share/pear:/opt/alt/php85/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kingnioq/pcu.kingosr.tech/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/kingnioq/pcu.kingosr.tech/public/index.php on line 24
+[28-Jun-2026 22:08:28 UTC] PHP Warning:  require(/home/kingnioq/pcu.kingosr.tech/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/kingnioq/pcu.kingosr.tech/public/index.php on line 24
+[28-Jun-2026 22:08:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kingnioq/pcu.kingosr.tech/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kingnioq/pcu.kingosr.tech/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/kingnioq/pcu.kingosr.tech/public/index.php on line 24
+[28-Jun-2026 22:08:58 UTC] PHP Warning:  require(/home/kingnioq/pcu.kingosr.tech/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/kingnioq/pcu.kingosr.tech/public/index.php on line 24
+[28-Jun-2026 22:08:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kingnioq/pcu.kingosr.tech/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kingnioq/pcu.kingosr.tech/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/kingnioq/pcu.kingosr.tech/public/index.php on line 24
+[28-Jun-2026 23:44:39 UTC] PHP Warning:  require(/home/kingnioq/pcu.kingosr.tech/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/kingnioq/pcu.kingosr.tech/public/index.php on line 24
+[28-Jun-2026 23:44:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kingnioq/pcu.kingosr.tech/public/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kingnioq/pcu.kingosr.tech/public/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/kingnioq/pcu.kingosr.tech/public/index.php on line 24
+[19-Jul-2026 01:32:26 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught ReflectionException: Class "view" does not exist in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:1122
+Stack trace:
+#0 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1122): ReflectionClass->__construct()
+#1 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#2 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#3 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#4 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#5 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1805): Illuminate\Foundation\Application->make()
+#6 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(177): Illuminate\Container\Container->offsetGet()
+#7 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1115): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}()
+#8 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#9 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#10 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#11 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#12 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(138): Illuminate\Foundation\Application->make()
+#13 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(850): app()
+#14 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(987): response()
+#15 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(839): Illuminate\Foundation\Exceptions\Handler->toIlluminateResponse()
+#16 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#17 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#18 /home/kingnioq/cmc.ngembamining.com/app/Exceptions/Handler.php(59): Illuminate\Foundation\Exceptions\Handler->render()
+#19 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(225): App\Exceptions\Handler->render()
+#20 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(202): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#21 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(262): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#22 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#23 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [view] does not exist. in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:1124
+Stack trace:
+#0 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#1 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#2 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#3 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#4 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1805): Illuminate\Foundation\Application->make()
+#5 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(177): Illuminate\Container\Container->offsetGet()
+#6 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1115): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}()
+#7 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#8 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#9 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#10 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#11 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(138): Illuminate\Foundation\Application->make()
+#12 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(850): app()
+#13 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(987): response()
+#14 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(839): Illuminate\Foundation\Exceptions\Handler->toIlluminateResponse()
+#15 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#16 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#17 /home/kingnioq/cmc.ngembamining.com/app/Exceptions/Handler.php(59): Illuminate\Foundation\Exceptions\Handler->render()
+#18 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(225): App\Exceptions\Handler->render()
+#19 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(202): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#20 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(262): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#21 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#22 {main}
+  thrown in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1124
+[19-Jul-2026 01:33:20 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught ReflectionException: Class "view" does not exist in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:1122
+Stack trace:
+#0 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1122): ReflectionClass->__construct()
+#1 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#2 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#3 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#4 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#5 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1805): Illuminate\Foundation\Application->make()
+#6 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(177): Illuminate\Container\Container->offsetGet()
+#7 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1115): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}()
+#8 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#9 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#10 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#11 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#12 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(138): Illuminate\Foundation\Application->make()
+#13 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(850): app()
+#14 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(987): response()
+#15 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(839): Illuminate\Foundation\Exceptions\Handler->toIlluminateResponse()
+#16 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#17 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#18 /home/kingnioq/cmc.ngembamining.com/app/Exceptions/Handler.php(59): Illuminate\Foundation\Exceptions\Handler->render()
+#19 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(225): App\Exceptions\Handler->render()
+#20 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(202): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#21 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(262): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#22 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#23 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [view] does not exist. in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:1124
+Stack trace:
+#0 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#1 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#2 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#3 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#4 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1805): Illuminate\Foundation\Application->make()
+#5 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(177): Illuminate\Container\Container->offsetGet()
+#6 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1115): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}()
+#7 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#8 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#9 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#10 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#11 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(138): Illuminate\Foundation\Application->make()
+#12 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(850): app()
+#13 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(987): response()
+#14 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(839): Illuminate\Foundation\Exceptions\Handler->toIlluminateResponse()
+#15 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#16 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#17 /home/kingnioq/cmc.ngembamining.com/app/Exceptions/Handler.php(59): Illuminate\Foundation\Exceptions\Handler->render()
+#18 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(225): App\Exceptions\Handler->render()
+#19 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(202): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#20 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(262): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#21 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#22 {main}
+  thrown in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1124
+[19-Jul-2026 01:37:51 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught ReflectionException: Class "view" does not exist in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:1122
+Stack trace:
+#0 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1122): ReflectionClass->__construct()
+#1 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#2 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#3 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#4 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#5 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1805): Illuminate\Foundation\Application->make()
+#6 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(177): Illuminate\Container\Container->offsetGet()
+#7 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1115): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}()
+#8 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#9 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#10 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#11 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#12 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(138): Illuminate\Foundation\Application->make()
+#13 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(850): app()
+#14 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(987): response()
+#15 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(839): Illuminate\Foundation\Exceptions\Handler->toIlluminateResponse()
+#16 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#17 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#18 /home/kingnioq/cmc.ngembamining.com/app/Exceptions/Handler.php(59): Illuminate\Foundation\Exceptions\Handler->render()
+#19 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(225): App\Exceptions\Handler->render()
+#20 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(202): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#21 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(262): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#22 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#23 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [view] does not exist. in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:1124
+Stack trace:
+#0 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#1 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#2 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#3 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#4 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1805): Illuminate\Foundation\Application->make()
+#5 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(177): Illuminate\Container\Container->offsetGet()
+#6 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1115): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}()
+#7 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#8 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#9 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#10 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#11 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(138): Illuminate\Foundation\Application->make()
+#12 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(850): app()
+#13 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(987): response()
+#14 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(839): Illuminate\Foundation\Exceptions\Handler->toIlluminateResponse()
+#15 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#16 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#17 /home/kingnioq/cmc.ngembamining.com/app/Exceptions/Handler.php(59): Illuminate\Foundation\Exceptions\Handler->render()
+#18 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(225): App\Exceptions\Handler->render()
+#19 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(202): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#20 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(262): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#21 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#22 {main}
+  thrown in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1124
+[19-Jul-2026 01:38:43 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught ReflectionException: Class "view" does not exist in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:1122
+Stack trace:
+#0 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1122): ReflectionClass->__construct()
+#1 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#2 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#3 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#4 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#5 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1805): Illuminate\Foundation\Application->make()
+#6 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(177): Illuminate\Container\Container->offsetGet()
+#7 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1115): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}()
+#8 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#9 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#10 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#11 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#12 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(138): Illuminate\Foundation\Application->make()
+#13 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(850): app()
+#14 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(987): response()
+#15 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(839): Illuminate\Foundation\Exceptions\Handler->toIlluminateResponse()
+#16 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#17 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#18 /home/kingnioq/cmc.ngembamining.com/app/Exceptions/Handler.php(59): Illuminate\Foundation\Exceptions\Handler->render()
+#19 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(225): App\Exceptions\Handler->render()
+#20 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(202): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#21 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(262): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#22 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#23 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [view] does not exist. in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:1124
+Stack trace:
+#0 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#1 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#2 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#3 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#4 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1805): Illuminate\Foundation\Application->make()
+#5 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(177): Illuminate\Container\Container->offsetGet()
+#6 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1115): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}()
+#7 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#8 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#9 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#10 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#11 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(138): Illuminate\Foundation\Application->make()
+#12 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(850): app()
+#13 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(987): response()
+#14 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(839): Illuminate\Foundation\Exceptions\Handler->toIlluminateResponse()
+#15 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#16 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#17 /home/kingnioq/cmc.ngembamining.com/app/Exceptions/Handler.php(59): Illuminate\Foundation\Exceptions\Handler->render()
+#18 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(225): App\Exceptions\Handler->render()
+#19 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(202): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#20 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(262): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#21 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#22 {main}
+  thrown in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1124
+[19-Jul-2026 01:41:11 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught ReflectionException: Class "view" does not exist in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:1122
+Stack trace:
+#0 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1122): ReflectionClass->__construct()
+#1 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#2 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#3 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#4 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#5 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1805): Illuminate\Foundation\Application->make()
+#6 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(177): Illuminate\Container\Container->offsetGet()
+#7 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1115): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}()
+#8 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#9 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#10 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#11 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#12 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(138): Illuminate\Foundation\Application->make()
+#13 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(850): app()
+#14 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(987): response()
+#15 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(839): Illuminate\Foundation\Exceptions\Handler->toIlluminateResponse()
+#16 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#17 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#18 /home/kingnioq/cmc.ngembamining.com/app/Exceptions/Handler.php(59): Illuminate\Foundation\Exceptions\Handler->render()
+#19 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(225): App\Exceptions\Handler->render()
+#20 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(202): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#21 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(262): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#22 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#23 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [view] does not exist. in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:1124
+Stack trace:
+#0 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#1 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#2 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#3 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#4 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1805): Illuminate\Foundation\Application->make()
+#5 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(177): Illuminate\Container\Container->offsetGet()
+#6 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1115): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}()
+#7 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#8 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#9 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#10 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#11 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(138): Illuminate\Foundation\Application->make()
+#12 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(850): app()
+#13 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(987): response()
+#14 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(839): Illuminate\Foundation\Exceptions\Handler->toIlluminateResponse()
+#15 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#16 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#17 /home/kingnioq/cmc.ngembamining.com/app/Exceptions/Handler.php(59): Illuminate\Foundation\Exceptions\Handler->render()
+#18 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(225): App\Exceptions\Handler->render()
+#19 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(202): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#20 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(262): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#21 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#22 {main}
+  thrown in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1124
+[19-Jul-2026 01:44:08 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught ReflectionException: Class "view" does not exist in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:1122
+Stack trace:
+#0 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1122): ReflectionClass->__construct()
+#1 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#2 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#3 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#4 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#5 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1805): Illuminate\Foundation\Application->make()
+#6 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(177): Illuminate\Container\Container->offsetGet()
+#7 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1115): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}()
+#8 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#9 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#10 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#11 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#12 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(138): Illuminate\Foundation\Application->make()
+#13 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(850): app()
+#14 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(987): response()
+#15 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(839): Illuminate\Foundation\Exceptions\Handler->toIlluminateResponse()
+#16 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#17 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#18 /home/kingnioq/cmc.ngembamining.com/app/Exceptions/Handler.php(59): Illuminate\Foundation\Exceptions\Handler->render()
+#19 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(225): App\Exceptions\Handler->render()
+#20 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(202): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#21 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(262): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#22 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#23 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [view] does not exist. in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:1124
+Stack trace:
+#0 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#1 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#2 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#3 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#4 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1805): Illuminate\Foundation\Application->make()
+#5 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(177): Illuminate\Container\Container->offsetGet()
+#6 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1115): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}()
+#7 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#8 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#9 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#10 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#11 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(138): Illuminate\Foundation\Application->make()
+#12 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(850): app()
+#13 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(987): response()
+#14 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(839): Illuminate\Foundation\Exceptions\Handler->toIlluminateResponse()
+#15 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(738): Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+#16 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#17 /home/kingnioq/cmc.ngembamining.com/app/Exceptions/Handler.php(59): Illuminate\Foundation\Exceptions\Handler->render()
+#18 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(225): App\Exceptions\Handler->render()
+#19 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(202): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#20 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(262): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#21 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#22 {main}
+  thrown in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1124
+[21-Jul-2026 21:54:29 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Models\LoanPayment, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Loan/LoanPaymentController.php on line 8
+[28-Jul-2026 15:42:49 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Services\TrialBalanceService, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Finance/TrialBalanceController.php on line 17
+[30-Jul-2026 11:53:41 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Models\User, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/storage/framework/views/a48ea6a51a2fa528fc9de3731c77b35d.php on line 9
+[31-Jul-2026 17:13:02 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot use App\Http\Controllers\Reports\ReportController as ReportController because the name is already in use in /home/kingnioq/cmc.ngembamining.com/routes/web.php on line 42
+[31-Jul-2026 17:18:19 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot use App\Http\Controllers\Reports\ReportController as ReportController because the name is already in use in /home/kingnioq/cmc.ngembamining.com/routes/web.php on line 42
+[06-Aug-2026 11:04:13 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "view" does not exist in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:1122
+Stack trace:
+#0 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1122): ReflectionClass->__construct()
+#1 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#2 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#3 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#4 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#5 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1805): Illuminate\Foundation\Application->make()
+#6 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(177): Illuminate\Container\Container->offsetGet()
+#7 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1115): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}()
+#8 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#9 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#10 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#11 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#12 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(138): Illuminate\Foundation\Application->make()
+#13 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(850): app()
+#14 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(1004): response()
+#15 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(737): Illuminate\Foundation\Exceptions\Handler->prepareJsonResponse()
+#16 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#17 /home/kingnioq/cmc.ngembamining.com/app/Exceptions/Handler.php(59): Illuminate\Foundation\Exceptions\Handler->render()
+#18 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): App\Exceptions\Handler->render()
+#19 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#20 /home/kingnioq/cmc.ngembamining.com/public/index.php(54): Illuminate\Foundation\Http\Kernel->handle()
+#21 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [view] does not exist. in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:1124
+Stack trace:
+#0 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#1 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#2 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#3 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#4 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1805): Illuminate\Foundation\Application->make()
+#5 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(177): Illuminate\Container\Container->offsetGet()
+#6 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1115): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}()
+#7 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#8 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#9 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#10 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#11 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(138): Illuminate\Foundation\Application->make()
+#12 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(850): app()
+#13 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(1004): response()
+#14 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(737): Illuminate\Foundation\Exceptions\Handler->prepareJsonResponse()
+#15 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#16 /home/kingnioq/cmc.ngembamining.com/app/Exceptions/Handler.php(59): Illuminate\Foundation\Exceptions\Handler->render()
+#17 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): App\Exceptions\Handler->render()
+#18 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#19 /home/kingnioq/cmc.ngembamining.com/public/index.php(54): Illuminate\Foundation\Http\Kernel->handle()
+#20 {main}
+  thrown in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1124
+[06-Aug-2026 11:04:24 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "view" does not exist in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:1122
+Stack trace:
+#0 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1122): ReflectionClass->__construct()
+#1 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#2 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#3 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#4 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#5 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1805): Illuminate\Foundation\Application->make()
+#6 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(177): Illuminate\Container\Container->offsetGet()
+#7 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1115): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}()
+#8 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#9 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#10 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#11 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#12 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(138): Illuminate\Foundation\Application->make()
+#13 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(850): app()
+#14 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(1004): response()
+#15 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(737): Illuminate\Foundation\Exceptions\Handler->prepareJsonResponse()
+#16 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#17 /home/kingnioq/cmc.ngembamining.com/app/Exceptions/Handler.php(59): Illuminate\Foundation\Exceptions\Handler->render()
+#18 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): App\Exceptions\Handler->render()
+#19 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#20 /home/kingnioq/cmc.ngembamining.com/public/index.php(54): Illuminate\Foundation\Http\Kernel->handle()
+#21 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [view] does not exist. in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:1124
+Stack trace:
+#0 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#1 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#2 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#3 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#4 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1805): Illuminate\Foundation\Application->make()
+#5 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(177): Illuminate\Container\Container->offsetGet()
+#6 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1115): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}()
+#7 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#8 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#9 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#10 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#11 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(138): Illuminate\Foundation\Application->make()
+#12 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(850): app()
+#13 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(1004): response()
+#14 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(737): Illuminate\Foundation\Exceptions\Handler->prepareJsonResponse()
+#15 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#16 /home/kingnioq/cmc.ngembamining.com/app/Exceptions/Handler.php(59): Illuminate\Foundation\Exceptions\Handler->render()
+#17 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): App\Exceptions\Handler->render()
+#18 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#19 /home/kingnioq/cmc.ngembamining.com/public/index.php(54): Illuminate\Foundation\Http\Kernel->handle()
+#20 {main}
+  thrown in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1124
+[06-Aug-2026 11:04:39 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "view" does not exist in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:1122
+Stack trace:
+#0 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1122): ReflectionClass->__construct()
+#1 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#2 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#3 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#4 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#5 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1805): Illuminate\Foundation\Application->make()
+#6 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(177): Illuminate\Container\Container->offsetGet()
+#7 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1115): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}()
+#8 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#9 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#10 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#11 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#12 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(138): Illuminate\Foundation\Application->make()
+#13 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(850): app()
+#14 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(1004): response()
+#15 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(737): Illuminate\Foundation\Exceptions\Handler->prepareJsonResponse()
+#16 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#17 /home/kingnioq/cmc.ngembamining.com/app/Exceptions/Handler.php(59): Illuminate\Foundation\Exceptions\Handler->render()
+#18 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): App\Exceptions\Handler->render()
+#19 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#20 /home/kingnioq/cmc.ngembamining.com/public/index.php(54): Illuminate\Foundation\Http\Kernel->handle()
+#21 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [view] does not exist. in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:1124
+Stack trace:
+#0 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#1 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#2 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#3 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#4 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1805): Illuminate\Foundation\Application->make()
+#5 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(177): Illuminate\Container\Container->offsetGet()
+#6 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1115): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}()
+#7 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(933): Illuminate\Container\Container->build()
+#8 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1078): Illuminate\Container\Container->resolve()
+#9 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(864): Illuminate\Foundation\Application->resolve()
+#10 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1058): Illuminate\Container\Container->make()
+#11 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(138): Illuminate\Foundation\Application->make()
+#12 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(850): app()
+#13 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(1004): response()
+#14 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(737): Illuminate\Foundation\Exceptions\Handler->prepareJsonResponse()
+#15 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(626): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+#16 /home/kingnioq/cmc.ngembamining.com/app/Exceptions/Handler.php(59): Illuminate\Foundation\Exceptions\Handler->render()
+#17 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(574): App\Exceptions\Handler->render()
+#18 /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(148): Illuminate\Foundation\Http\Kernel->renderException()
+#19 /home/kingnioq/cmc.ngembamining.com/public/index.php(54): Illuminate\Foundation\Http\Kernel->handle()
+#20 {main}
+  thrown in /home/kingnioq/cmc.ngembamining.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1124
+[12-Aug-2026 19:59:10 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\LoanController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Loan/LoanController.php on line 10
+[01-Oct-2026 14:24:25 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\WhatsAppController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Communication/WhatsAppController.php on line 9
+[01-Oct-2026 14:29:27 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\WhatsAppController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Communication/WhatsAppController.php on line 9
+[01-Oct-2026 15:15:49 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\WhatsAppController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Communication/WhatsAppController.php on line 9
+[01-Oct-2026 15:17:57 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\WhatsAppController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Communication/WhatsAppController.php on line 9
+[01-Oct-2026 15:22:52 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\WhatsAppController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Communication/WhatsAppController.php on line 9
+[01-Oct-2026 15:30:59 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Communication\WhatsAppController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Services/WhatsAppService.php on line 13
+[01-Oct-2026 15:33:21 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Communication\WhatsAppController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Services/WhatsAppService.php on line 13
+[01-Oct-2026 15:35:17 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Communication\WhatsAppController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Services/WhatsAppService.php on line 12
+[08-Oct-2026 15:31:09 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Auth\RegisterController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/storage/framework/views/4c01332506cb2a53816d3086e4018ca3.php on line 13
+[08-Oct-2026 15:32:31 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Auth\RegisterController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/storage/framework/views/4c01332506cb2a53816d3086e4018ca3.php on line 13
+[15-Nov-2026 02:44:21 Africa/Dar_es_Salaam] PHP Fatal error:  Trait "Laravel\Sanctum\HasApiTokens" not found in /home/kingnioq/cmc.ngembamining.com/app/Models/User.php on line 10
+[15-Nov-2026 02:44:23 Africa/Dar_es_Salaam] PHP Fatal error:  Trait "Laravel\Sanctum\HasApiTokens" not found in /home/kingnioq/cmc.ngembamining.com/app/Models/User.php on line 10
+[15-Nov-2026 02:47:06 Africa/Dar_es_Salaam] PHP Fatal error:  Trait "Laravel\Sanctum\HasApiTokens" not found in /home/kingnioq/cmc.ngembamining.com/app/Models/User.php on line 10
+[15-Nov-2026 04:06:17 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot use Laravel\Sanctum\HasApiTokens as HasApiTokens because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Models/User.php on line 9
+[15-Nov-2026 04:06:18 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot use Laravel\Sanctum\HasApiTokens as HasApiTokens because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Models/User.php on line 9
+[15-Nov-2026 22:37:22 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Api\TransactionController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/Transaction/TransactionController.php on line 9
+[15-Nov-2026 22:37:24 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Api\TransactionController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/Transaction/TransactionController.php on line 9
+[15-Nov-2026 22:42:29 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Api\TransactionController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/Transaction/TransactionController.php on line 9
+[15-Nov-2026 23:06:51 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Api\TransactionController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/Transaction/TransactionController.php on line 9
+[15-Nov-2026 23:07:21 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Api\TransactionController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/Transaction/TransactionController.php on line 9
+[15-Nov-2026 23:09:07 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Api\TransactionController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/Transaction/TransactionController.php on line 9
+[15-Nov-2026 23:10:32 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Api\TransactionController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/Transaction/TransactionController.php on line 9
+[15-Nov-2026 23:10:35 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Api\TransactionController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/Transaction/TransactionController.php on line 9
+[15-Nov-2026 23:11:00 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Api\TransactionController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/Transaction/TransactionController.php on line 9
+[15-Nov-2026 23:13:53 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Api\TransactionController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/Transaction/TransactionController.php on line 9
+[15-Nov-2026 23:13:57 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Api\TransactionController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/Transaction/TransactionController.php on line 9
+[15-Nov-2026 23:14:59 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Api\TransactionController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/Transaction/TransactionController.php on line 9
+[15-Nov-2026 23:15:01 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Api\TransactionController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/Transaction/TransactionController.php on line 9
+[15-Nov-2026 23:17:11 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Api\TransactionController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/Transaction/TransactionController.php on line 9
+[15-Nov-2026 23:17:30 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Api\TransactionController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/Transaction/TransactionController.php on line 9
+[15-Nov-2026 23:20:58 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Api\TransactionController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/Transaction/TransactionController.php on line 9
+[15-Nov-2026 23:24:23 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Api\TransactionController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/Transaction/TransactionController.php on line 9
+[17-Nov-2026 17:32:40 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[17-Nov-2026 17:32:40 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[17-Nov-2026 18:29:20 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Communication\WhatsAppController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Services/WhatsAppService.php on line 12
+[17-Nov-2026 18:29:28 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Communication\WhatsAppController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Services/WhatsAppService.php on line 12
+[17-Nov-2026 18:35:07 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Communication\WhatsAppController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Services/WhatsAppService.php on line 12
+[17-Nov-2026 19:11:02 Africa/Dar_es_Salaam] PHP Fatal error:  Cannot declare class App\Http\Controllers\Communication\WhatsAppController, because the name is already in use in /home/kingnioq/cmc.ngembamining.com/app/Services/WhatsAppService.php on line 12
+[17-Nov-2026 19:24:25 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[17-Nov-2026 19:24:25 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[17-Nov-2026 20:01:57 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[17-Nov-2026 20:01:57 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[17-Nov-2026 21:14:31 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[17-Nov-2026 21:14:31 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[17-Nov-2026 21:29:12 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[17-Nov-2026 21:29:13 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[17-Nov-2026 21:31:09 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[17-Nov-2026 21:31:09 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[18-Nov-2026 00:05:46 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[18-Nov-2026 00:05:46 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[18-Nov-2026 00:08:52 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[18-Nov-2026 00:08:52 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[18-Nov-2026 00:09:24 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[18-Nov-2026 00:09:24 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[18-Nov-2026 00:18:00 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[18-Nov-2026 00:18:01 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[18-Nov-2026 00:18:33 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[18-Nov-2026 00:18:33 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[18-Nov-2026 00:21:21 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[18-Nov-2026 00:21:21 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[18-Nov-2026 00:50:50 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[18-Nov-2026 00:50:50 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[18-Nov-2026 00:52:24 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[18-Nov-2026 00:52:24 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[18-Nov-2026 00:52:29 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[18-Nov-2026 00:52:29 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[18-Nov-2026 15:09:56 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[18-Nov-2026 15:09:57 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[18-Nov-2026 18:26:51 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[18-Nov-2026 18:26:51 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[19-Nov-2026 13:29:53 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[19-Nov-2026 13:29:54 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[19-Nov-2026 13:44:32 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[19-Nov-2026 13:44:32 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[19-Nov-2026 13:44:36 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[19-Nov-2026 13:44:36 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[20-Nov-2026 14:30:26 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[20-Nov-2026 14:30:27 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[20-Nov-2026 17:40:34 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[20-Nov-2026 17:40:34 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[20-Nov-2026 17:43:08 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[20-Nov-2026 17:43:09 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[21-Nov-2026 10:40:16 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[21-Nov-2026 10:40:17 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[21-Nov-2026 10:40:19 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[21-Nov-2026 10:40:19 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[21-Nov-2026 10:48:10 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[21-Nov-2026 10:48:10 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[21-Nov-2026 10:48:16 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[21-Nov-2026 10:48:17 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[21-Nov-2026 16:33:55 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
+[21-Nov-2026 16:33:56 Africa/Dar_es_Salaam] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kingnioq/cmc.ngembamining.com/app/Http/Controllers/Api/BranchController.php on line 4
